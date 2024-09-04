@@ -2,7 +2,7 @@
 Meu nome é Uriel
 
 - Estou estudando o [Alura] (https://www.alura.com.br)
-- Estou desenvolvendo uma linguagem JavaScript 💻​
+- Estou desenvolvendo linguagens JavaScript, html e css ☕
 - utilizo esse espaço para organizar meu projeto
 
 ### você pode entrar em contato comigo ​🍷​🗿​
